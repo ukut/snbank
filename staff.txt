@@ -1,0 +1,12 @@
+user_details_1
+username:
+password:
+email:
+full name:
+
+
+user_details_2
+username:
+password:
+email:
+full name:

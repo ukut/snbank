@@ -1,0 +1,14 @@
+import random
+
+
+fname = input('Enter the file name: ')
+fhand = open(fname)
+
+#staff login details
+Def staff_login():
+    username = input("Enter username here: ")
+    password = input("Enter password here: ")
+    staff_login = (username, password)
+    return staff_login
+
+# generate password for ten digit account number
